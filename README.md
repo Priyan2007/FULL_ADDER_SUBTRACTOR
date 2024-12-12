@@ -1,4 +1,6 @@
 **NAME:PRIYAN**
+
+
 **REG NO:24000051**
 
 # FULL_ADDER_SUBTRACTOR
@@ -42,9 +44,13 @@ Borrow out = A'Bin + A'B + BBin
 **Truthtable**
 
 **Full Adder**
+
+
 <img width="370" alt="Screenshot 2024-12-12 at 10 56 38 AM" src="https://github.com/user-attachments/assets/931b8738-65c5-4d10-b5b7-6df43266e044" />
 
 **Full Subtractor**
+
+
 <img width="379" alt="Screenshot 2024-12-12 at 10 56 57 AM" src="https://github.com/user-attachments/assets/80c801fb-3c63-451a-93a8-ee5b64df57cd" />
 
 
@@ -52,12 +58,18 @@ Borrow out = A'Bin + A'B + BBin
 
 
 **Program:**
+
+
 <img width="510" alt="Screenshot 2024-12-12 at 10 57 59 AM" src="https://github.com/user-attachments/assets/e403f774-68eb-4521-9ead-2dd0990cbbbb" />
 
 **RTL VIEWER**
+
+
 <img width="606" alt="Screenshot 2024-12-12 at 10 58 21 AM" src="https://github.com/user-attachments/assets/60afb5a5-c2d7-446e-9046-fe5cce4ac947" />
 
 **OUTPUT TIMING WAVEFORM**
+
+
 <img width="652" alt="Screenshot 2024-12-12 at 10 58 44 AM" src="https://github.com/user-attachments/assets/4a480372-bab1-4df8-9c83-e42e96d08c80" />
 
 
