@@ -1,9 +1,7 @@
-**NAME:PRIYAN**
+### NAME:PRIYAN
+### REG NO:24000051
 
-
-**REG NO:24000051**
-
-# FULL_ADDER_SUBTRACTOR
+### FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
