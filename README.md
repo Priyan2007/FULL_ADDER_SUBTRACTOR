@@ -1,9 +1,8 @@
 ### NAME:PRIYAN
+
 ### REG NO:24000051
 
-### EXP NO 4: FULL ADDER SUBTRACTOR
-
-Implementation-of-Full-Adder-and-Full-subtractor-circuit
+### EXP NO 4:IMPLEMENTATION OF FULL ADDER AND FULL SUBTRACTOR
 
 **AIM:**
 
